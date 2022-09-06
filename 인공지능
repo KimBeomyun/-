@@ -1,0 +1,8 @@
+파이썬을 통해 메모장에 만든 정보들을 그래프로 표현할 수 있다.
+코드 예시(간략화)
+Import panda as pd
+data_f=pd.read_CSV(‘plant_diary.scv’)
+plot(data_f, ‘날짜’, ‘잎 너비’, ‘주인’)
+www.kaggle.com 나의 코드 저장 및 다른 사람의 코드 사용 및 편집가능
+split 데이터를 자르는 명령어!
+Ex) train, test = split(data_f) (train, test는 데이터프레임)
