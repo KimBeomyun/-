@@ -196,5 +196,6 @@ void CImageProcessing2018108249App::OnAppAbout()
 
 // CImageProcessing2018108249App 메시지 처리기
 
+ 
 
 
