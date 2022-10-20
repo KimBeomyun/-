@@ -161,3 +161,8 @@ EBNF 표기법
 컴파일러 : 주어진 language로 작성된 컴퓨터 프로그램을 다른 언어의 동등한 프로그램으로 변환하는컴파일러는이 작업을 실행하는 소프트웨어
 컴파일러의 프론트 엔드 : Lexical analysis, Syntax analysis, Semantic analysis, Intermediate code generation
 컴파일러의 백엔트 : Code optimization, Code generation
+Lexical analysis(Scanner) : 컴파일러 내부에서 효율적이며 다루기 쉬운 정수로 바꾸어 줌
+Syntax analysis(Parser) : : Syntax checking Tree generation
+
+
+
