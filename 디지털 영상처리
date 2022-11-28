@@ -340,6 +340,12 @@ BMP 파일의 색상 구조에 따른 파일 구성 형식
 -양선형 보간법(Bilinear Interpolation)
 -3차 회선 보간법(Cubic Convolution Interpolation)
 -B-스플라인 보간법(B-Spline Interpolation)
+스케일링(Scaling)
+-디지털 영상의 모양은 변화시키지 않은 채 크기만을 확대하거나 축소하는 변환
+-영상을 확대하는 것을 확대(Magnification), 스케일링 업(Scaling Up), 줌(Zooming), 업
+-샘플링(Up Sampling)이라고 하며,영상을 축소하는 것을 축소(Minification), 스케일링 다운(Scaling Dawn), 데시메이션(Decimation), 다운 샘플링(Dawn Sampling)이라 함.
+-스케일링 변환은 원 영상의 해상도를 떨어뜨리는 특징이 있어 결과 영상의 품질은 당연히 떨어짐
+
 
 
 
